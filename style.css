@@ -1,0 +1,17 @@
+body {
+    background-color:#977d45
+}
+h1 {
+    text-align: justify;
+    font-size: 55px;
+    color:#000000;
+}
+h2{
+    text-align:center;
+    font-size: 45px;
+    color: #241e11;
+}
+p {
+    font-size: 30px;
+    text-align:center;
+}
