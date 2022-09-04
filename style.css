@@ -5,7 +5,21 @@ h1 {
     text-align: justify;
     font-size: 55px;
     color:#000000;
+    border: 5 px solid;
+    padding: 5 px;
 }
+#café {
+        width: 30%;
+        height: 30%;
+}
+#café2{
+    width: 30%;
+    height: 30%;
+}
+#café3{
+    width: 35%;
+    height: 60%;}
+
 h2{
     text-align:center;
     font-size: 45px;
